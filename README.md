@@ -1,7 +1,6 @@
 # CreateHashPassword
 ----------------------------
-cd client -> npmn install </br>
-----------------------------
+cd client -> npm install </br>
 cd server -> npm install </br>
 
 ------------------------------
